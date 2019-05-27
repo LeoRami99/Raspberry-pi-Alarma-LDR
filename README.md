@@ -1,6 +1,6 @@
 # Raspberry-pi-Alarma-LDR
 Alarma con LDR y raspberry pi
-En este código encontraras una alarma con una LDR y enviando alertas a un bot de Telegram.
+En este código encontraras una alarma con una LDR y enviando alertas a un bot de Telegram,también podras controlar algunos leds desde telegram ya todo es cuestión de tu imaginación.
 materiales que se necesitaran:
 *Raspberry pi(2,3B, 3B+, zero)
 *LDR
