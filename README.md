@@ -11,6 +11,7 @@ materiales que se necesitaran:
 *LEDS
 *Resistencias de 100Ω
 **https://projects.raspberrypi.org/en/projects/physical-computing/12
-En este enlace se encuentra la manera de de como conectar la LDR debido a que la raspberry solo lee señales digitales y no analógicas
+En este enlace se encuentra la manera de de como conectar la LDR debido a que la raspberry solo lee señales digitales y no analógicas.
+Debes de instalar la libreria de telebot con **sudo pip install telebot**
 Como minimo debes tener conocimientos en programación y electrónica.
 **Te deseo mucha Suerte**
