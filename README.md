@@ -15,3 +15,4 @@ En este enlace se encuentra la manera de de como conectar la LDR debido a que la
 Debes de instalar la libreria de telebot con **sudo pip install telebot**
 Como minimo debes tener conocimientos en programación y electrónica.
 **Te deseo mucha Suerte**
+//**Si esto lo vas a presentar como proyecto te recomiendo reiniciar tu movil te lo digo por experiencia**//
